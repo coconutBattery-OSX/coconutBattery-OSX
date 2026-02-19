@@ -1,4 +1,4 @@
-# coconutBattery – Battery Information Tool
+# CoconutBattery – Battery Information Tool
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/ipod/images/2/22/CoconutBattery_3.9_macOS_icon.png" width="200" alt="coconutBattery icon"/>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.coconut-flavour.com/coconutbattery/assets/img/BigSur/menu_g.png" alt="coconutBattery screenshot"/>
+  <img src="https://pontyk.com.ua/wp-content/uploads/2022/09/coco-06.54.14.jpg" alt="coconutBattery screenshot"/>
 </p>
 
 ---
@@ -43,7 +43,7 @@ Convenient status access through menu bar integration provides quick battery sta
 ---
 
 <p align="center">
-  <img src="https://www.coconut-flavour.com/coconutbattery/assets/img/BigSur/menu_g.png" alt="coconutBattery screenshot"/>
+  <img src="https://preview.redd.it/pixse5d8got81.png?width=721&format=png&auto=webp&s=ccd56a02e68b6c8ce81657512ce94d86ae7be630" alt="coconutBattery screenshot"/>
 </p>
 
 ---
